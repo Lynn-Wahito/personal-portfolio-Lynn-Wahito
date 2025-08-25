@@ -41,6 +41,15 @@ Each page includes a navigation bar so visitors can easily explore your site. Yo
 
 ---
 
+## Live Deployment
+
+This project is deployed using **GitHub Pages**.  
+🔗 You can view the live site here: [https://ambarmishra973.github.io/personal-portfolio-Lynn-Wahito/](https://ambarmishra973.github.io/personal-portfolio-Lynn-Wahito/)
+
+*Note: No custom domain has been provided for this project. If applicable, please share the domain details and I will be happy to configure it.*
+
+---
+
 ## How to Use
 1. Clone this repository to your local machine.  
 2. Familiarize yourself with the file structure and individual page contents.  
